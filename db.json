@@ -1,107 +1,74 @@
-[
-  {
-    "id": 1,
-    "title": "Men's T-Shirt",
-    "price": 10.99,
-    "image": "https://fakestoreapi.com/img/1.jpg",
-    "rating": { "rate": 4.5, "count": 120 }
-  },
-  {
-    "id": 2,
-    "title": "Running Shoes",
-    "price": 29.99,
-    "image": "https://fakestoreapi.com/img/2.jpg",
-    "rating": { "rate": 4.8, "count": 90 }
-  },
-  {
-    "id": 3,
-    "title": "Backpack",
-    "price": 49.99,
-    "image": "https://fakestoreapi.com/img/3.jpg",
-    "rating": { "rate": 4.3, "count": 75 }
-  },
-  {
-    "id": 4,
-    "title": "Smart Watch",
-    "price": 199.99,
-    "image": "https://fakestoreapi.com/img/4.jpg",
-    "rating": { "rate": 4.6, "count": 210 }
-  },
-  {
-    "id": 5,
-    "title": "Leather Jacket",
-    "price": 89.99,
-    "image": "https://fakestoreapi.com/img/5.jpg",
-    "rating": { "rate": 4.7, "count": 150 }
-  },
-  {
-    "id": 6,
-    "title": "Sunglasses",
-    "price": 19.99,
-    "image": "https://fakestoreapi.com/img/6.jpg",
-    "rating": { "rate": 4.2, "count": 85 }
-  },
-  {
-    "id": 7,
-    "title": "Bluetooth Headphones",
-    "price": 79.99,
-    "image": "https://fakestoreapi.com/img/7.jpg",
-    "rating": { "rate": 4.4, "count": 190 }
-  },
-  {
-    "id": 8,
-    "title": "Formal Shoes",
-    "price": 59.99,
-    "image": "https://fakestoreapi.com/img/8.jpg",
-    "rating": { "rate": 4.5, "count": 140 }
-  },
-  {
-    "id": 9,
-    "title": "Casual Watch",
-    "price": 149.99,
-    "image": "https://fakestoreapi.com/img/9.jpg",
-    "rating": { "rate": 4.6, "count": 220 }
-  },
-  {
-    "id": 10,
-    "title": "Winter Beanie",
-    "price": 12.99,
-    "image": "https://fakestoreapi.com/img/10.jpg",
-    "rating": { "rate": 4.1, "count": 60 }
-  },
-  {
-    "id": 11,
-    "title": "Hiking Backpack",
-    "price": 69.99,
-    "image": "https://fakestoreapi.com/img/11.jpg",
-    "rating": { "rate": 4.3, "count": 180 }
-  },
-  {
-    "id": 12,
-    "title": "Office Bag",
-    "price": 39.99,
-    "image": "https://fakestoreapi.com/img/12.jpg",
-    "rating": { "rate": 4.0, "count": 95 }
-  },
-  {
-    "id": 13,
-    "title": "Sports Cap",
-    "price": 14.99,
-    "image": "https://fakestoreapi.com/img/13.jpg",
-    "rating": { "rate": 4.2, "count": 100 }
-  },
-  {
-    "id": 14,
-    "title": "White Sneakers",
-    "price": 34.99,
-    "image": "https://fakestoreapi.com/img/14.jpg",
-    "rating": { "rate": 4.5, "count": 130 }
-  },
-  {
-    "id": 15,
-    "title": "Denim Jeans",
-    "price": 44.99,
-    "image": "https://fakestoreapi.com/img/15.jpg",
-    "rating": { "rate": 4.3, "count": 160 }
-  }
-]
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Men's T-Shirt",
+      "price": 10.99,
+      "image": "https://fakestoreapi.com/img/1.jpg",
+      "rating": { "rate": 4.5, "count": 120 }
+    },
+    {
+      "id": 2,
+      "title": "Running Shoes",
+      "price": 29.99,
+      "image": "https://fakestoreapi.com/img/2.jpg",
+      "rating": { "rate": 4.8, "count": 90 }
+    },
+    {
+      "id": 3,
+      "title": "Backpack",
+      "price": 49.99,
+      "image": "https://fakestoreapi.com/img/3.jpg",
+      "rating": { "rate": 4.3, "count": 75 }
+    },
+    {
+      "id": 4,
+      "title": "Smart Watch",
+      "price": 199.99,
+      "image": "https://fakestoreapi.com/img/4.jpg",
+      "rating": { "rate": 4.6, "count": 210 }
+    },
+    {
+      "id": 5,
+      "title": "Leather Jacket",
+      "price": 89.99,
+      "image": "https://fakestoreapi.com/img/5.jpg",
+      "rating": { "rate": 4.7, "count": 150 }
+    },
+    {
+      "id": 6,
+      "title": "Sunglasses",
+      "price": 19.99,
+      "image": "https://fakestoreapi.com/img/6.jpg",
+      "rating": { "rate": 4.4, "count": 85 }
+    },
+    {
+      "id": 7,
+      "title": "Wireless Earbuds",
+      "price": 59.99,
+      "image": "https://fakestoreapi.com/img/7.jpg",
+      "rating": { "rate": 4.2, "count": 95 }
+    },
+    {
+      "id": 8,
+      "title": "Yoga Mat",
+      "price": 25.99,
+      "image": "https://fakestoreapi.com/img/8.jpg",
+      "rating": { "rate": 4.6, "count": 110 }
+    },
+    {
+      "id": 9,
+      "title": "Coffee Maker",
+      "price": 79.99,
+      "image": "https://fakestoreapi.com/img/9.jpg",
+      "rating": { "rate": 4.5, "count": 130 }
+    },
+    {
+      "id": 10,
+      "title": "Gaming Mouse",
+      "price": 39.99,
+      "image": "https://fakestoreapi.com/img/10.jpg",
+      "rating": { "rate": 4.7, "count": 160 }
+    }
+  ]
+}
